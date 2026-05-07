@@ -86,8 +86,5 @@ jupyter notebook
 ## 👩‍💻 Author
 
 **Karina Kuralionak** — Aspiring Product Analyst  
-<<<<<<< Updated upstream
 [GitHub](https://github.com/KQnok) · [LinkedIn](https://linkedin.com/in/karina-kuralionak)
-=======
-[GitHub](https://github.com/KQnok) · [LinkedIn](https://linkedin.com/in/karina-kuralionak)
->>>>>>> Stashed changes
+
